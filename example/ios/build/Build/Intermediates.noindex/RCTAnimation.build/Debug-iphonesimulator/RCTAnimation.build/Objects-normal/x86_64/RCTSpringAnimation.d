@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/shyaniv7/Development/buttons-ui/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.m \
+  /Users/shyaniv7/Development/buttons-ui/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/shyaniv7/Development/buttons-ui/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/shyaniv7/Development/buttons-ui/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/shyaniv7/Development/buttons-ui/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/shyaniv7/Development/buttons-ui/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
