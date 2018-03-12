@@ -1,6 +1,8 @@
 # react-native-bootstrap-buttons
 Simple and expandable React Native bootstrap buttons.
 
+![Demo](https://github.com/shyaniv7/react-native-bootstrap-buttons/blob/master/images/buttons_demo.png)
+
 # Installation
 
 `yarn add react-native-bootstrap-buttons`
